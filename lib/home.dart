@@ -45,7 +45,7 @@ class Home extends StatelessWidget {
             onTap: () {
               Navigator.of(context).pushNamed(Dhnet.id);
             },
-            child: Box(text: 'ON PROGRESS'),
+            child: Box(text: 'ደህንነት'),
           ),
           SizedBox(
             height: 25,
